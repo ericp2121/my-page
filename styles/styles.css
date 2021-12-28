@@ -1,0 +1,47 @@
+html {
+	background-color: #A9D1F8;
+	font-family: 'Roboto Mono', monospace;
+}
+
+.pfp {
+	margin-right: auto;
+	margin-left: auto;
+	max-height: 300px;
+	max-width: 300px;
+	width: 50%;
+	display: block;
+}
+
+h1, h2 {
+	font-size: 30px;
+	text-align: center;
+	margin: 0;
+	padding: 0;	
+}
+
+
+h3 {
+	font-size: 50px;
+	text-align: center;
+}
+
+h4 {
+	font-size: 35px;
+	text-align: center;
+}
+
+.page-1, .page-2, .page-3 {
+	text-align: center;
+	font-size: 18px;
+}
+
+.intro, .job-search, .job-list, .menu {
+	text-align: center;
+	font-size: 15;
+}
+
+.outro {
+	text-align: center;
+	font-size: 28px;
+}
+

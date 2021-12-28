@@ -1,0 +1,23 @@
+html {
+    	background-color: #A9D1F8;
+	font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    font-size: 30;
+    text-align: center;
+}
+
+.email, .phone, .linkedin {
+    font-size: 18;
+    text-align: center;
+}
+
+.email-photo, .linkedin-photo, .phone-photo {
+    margin-right: auto;
+	margin-left: auto;
+	max-height: 100px;
+	max-width: 100px;
+	width: 50%;
+	display: block;
+}

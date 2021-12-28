@@ -1,0 +1,27 @@
+html {
+    	background-color: #A9D1F8;
+	font-family: 'Roboto Mono', monospace;
+}
+
+.python-photo, .html-photo, .js-photo, .css-photo, .java-photo, .react-photo, .android-photo{
+    margin-right: auto;
+	margin-left: auto;
+	max-height: 100px;
+	max-width: 100px;
+	width: 50%;
+	display: block;
+}
+
+
+ul {
+    text-align: center;
+}
+    
+li {
+    display: inline-block;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35;
+}

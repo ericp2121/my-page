@@ -1,12 +1,19 @@
 html {
 	background-color: #A9D1F8;
-    	font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Mono', monospace;
 }
 
-h1, h2, h3, .resume {
-    	text-align: center;
+h1, .resume {
+    text-align: center;
 }
 
-.work-1, .work-1-dates, .work-2, .work-2-dates, .work-3, .work-3-dates, .work-4, .work-4-dates {
+
+h2, h3 {
+	text-align: center;
+	font-size: 20;
+}
+
+
+.work-1, .work-1-dates, .work-2, .work-2-dates, .work-3, .work-3-dates{
 	text-align: center;
 }

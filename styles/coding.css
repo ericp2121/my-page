@@ -1,5 +1,5 @@
 html {
-    	background-color: #A9D1F8;
+    background-color: #A9D1F8;
 	font-family: 'Roboto Mono', monospace;
 }
 
@@ -10,6 +10,7 @@ html {
 	max-width: 100px;
 	width: 50%;
 	display: block;
+	text-align: left;
 }
 
 
@@ -21,7 +22,7 @@ li {
     display: inline-block;
 }
 
-h1 {
+h1, h2 {
     text-align: center;
     font-size: 35;
 }

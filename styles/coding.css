@@ -4,7 +4,7 @@ html {
 }
 
 
-.p_skills, .d_skills, .projects {
+.p_skills, .d_skills, .projects, .pb_skills, .pf_skills, .pt_skills, .pd_skills {
 	font-size: 28px;
 	text-align: center;
 }
